@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venda moeda="real" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="venda.xsd" >
+<formaDePagamento>Cartão</formaDePagamento>
+<produtos>
+	<produto>
+		<nome>Agua</nome>
+		<preco>10.00</preco>
+	</produto>	
+	<produto>
+		<nome>arroz</nome>
+		<preco>3.00</preco>
+	</produto>
+
+</produtos>
+</venda>
